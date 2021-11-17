@@ -1,7 +1,7 @@
 ## Seja bem-vindo(a)!
 
 • 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP.<br>
-• 💻 Conhecimento em C e C# com Orientação a Objetos.<br>
+• 💻 Conhecimento básico em C e C# com Orientação a Objetos.<br>
 • 📖 Atualmente estudando HTML, CSS e Javascript.
 
 <div align="left">
