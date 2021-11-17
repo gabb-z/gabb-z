@@ -1,6 +1,13 @@
+## <h1 align="center">Seja bem-vindo(a)!</h1>
+
+• 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP.<br>
+• 💻 Conhecimento em C e C# com Orientação a Objetos.<br>
+• 📖 Atualmente estudando HTML, CSS e Javascript.
+
 <div align="center">
   <a href="https://github.com/gabb-z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabb-z&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabb-z&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
@@ -15,7 +22,7 @@
   
 ##
   
-<div> 
+<div><br>
   <a href="https://www.linkedin.com/in/gabb-zlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511958290144" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
 target="_blank"></a>
