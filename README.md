@@ -1,7 +1,7 @@
 ## Seja bem-vindo(a)!
 
 • 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP.<br>
-• 📖 Atualmente estudando HTML, CSS e Javascript.<br>
+• 📖 Atualmente estudando Javascript e React.Js.<br>
 • 👨‍💻 Breve conhecimento em C e C# com Orientação a Objetos.
 
 <div align="left">
