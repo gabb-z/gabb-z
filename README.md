@@ -1,8 +1,8 @@
 ## Seja bem-vindo(a)!
 
 • 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP.<br>
-• 📖 Atualmente estudando Javascript e React.Js.<br>
-• 👨‍💻 Breve conhecimento em C e C# com Orientação a Objetos.
+• 📖 Atualmente estudando C#/.NET<br>
+• 👨‍💻 Conhecimentos sólidos em HTML, CSS e Javascript.
 
 <div align="left">
   <a href="https://github.com/gabb-z">
