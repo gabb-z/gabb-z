@@ -1,7 +1,7 @@
 ## Seja bem-vindo(a)!
 
 • 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP.<br>
-• 📖 Atualmente estudando C#/.NET - HTML, CSS & Javascript.<br>
+• 📖 Atualmente estudando C#/.NET.<br>
 • 👨‍💻 Experiência com HTML, CSS e Javascript.<br>
 • 💻 Conhecimentos básicos em Bootstrap e React.Js.
 
